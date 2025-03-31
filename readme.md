@@ -72,16 +72,6 @@ streamlit run frontend.py
 1️⃣ "The Prime Minister, a Federal Minister, a Minister of State, and the Attorney General shall have the right to speak..."  
 2️⃣ "The provisions of this Article shall apply to persons who have the right to speak in, and otherwise to take part in the proceedings of, Majlis-e-Shoora..."  
 
----
-
-## 🔧 Future Improvements  
-- ✅ **Better chunking** for improved context retrieval.  
-- ✅ **Duplicate removal** to avoid redundancy.  
-- 🔜 **UI for document upload & automatic indexing.**  
-- 🔜 **Improved retrieval with a reranker model.**  
-
----
-
 ## 📜 License  
 This project is open-source under the **MIT License**.  
 
