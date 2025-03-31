@@ -1,0 +1,2 @@
+Automate Data Updates
+Create a pipeline that regularly updates the embeddings when new text is added.
