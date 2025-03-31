@@ -1,0 +1,8 @@
+flask
+streamlit
+requests
+faiss-cpu
+sentence-transformers
+numpy
+langchain
+pdfplumber
